@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>frame_1529494078.6692147.png</filename>
+	<path>C:\Users\Ezra\PythPro\Dasher\datasets\frames\frame_1529494078.6692147.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hanged_man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>232</ymin>
+			<xmax>544</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

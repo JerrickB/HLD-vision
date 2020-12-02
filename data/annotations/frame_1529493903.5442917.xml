@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frames</folder>
+	<filename>frame_1529493903.5442917.png</filename>
+	<path>C:\Users\Ezra\PythPro\Dasher\datasets\frames\frame_1529493903.5442917.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>187</ymin>
+			<xmax>521</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

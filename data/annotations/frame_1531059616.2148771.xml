@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collect_frames</folder>
+	<filename>frame_1531059616.2148771.png</filename>
+	<path>C:\Users\Ezra\PythPro\serpentai\datasets\collect_frames\frame_1531059616.2148771.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>341</ymin>
+			<xmax>489</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
